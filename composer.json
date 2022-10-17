@@ -11,7 +11,8 @@
     ],
     "require": {
         "php": ">=7.3.0",
-        "joshbrw/laravel-module-installer": "^v2.0.1"
+        "joshbrw/laravel-module-installer": "^v2.0.1",
+        "bitpay/sdk": "~6.0.2"
         
     },
     "autoload": {
